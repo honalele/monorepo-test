@@ -38,7 +38,7 @@ monorepo-test/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/monorepo-test.git
+   git clone https://github.com/honalele/monorepo-test.git
    cd monorepo-test
    ```
 
