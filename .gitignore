@@ -14,3 +14,7 @@ yarn.lock
 package-lock.json
 
 .venv/
+
+notebook/.ipynb_checkpoints/
+notebook/.ipynb_checkpoints/*
+.ipynb_checkpoints
