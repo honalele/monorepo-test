@@ -3,6 +3,9 @@ urllib3>=2.0.0
 openai>=1.0.0
 requests>=2.25.0
 
+# Flight Monitoring System dependencies
+# Note: byteplussdkarkruntime should be installed according to BytePlus documentation
+
 # Development dependencies
 pytest
 black
