@@ -104,3 +104,21 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 For questions and support, please open an issue in the repository.
 
+## Troubleshooting
+
+### Common Issues
+
+1. **SSL Warnings**: If you encounter SSL-related warnings, upgrade urllib3:
+   ```bash
+   pip install --upgrade urllib3
+   ```
+
+2. **Missing Dependencies**: Ensure all required packages are installed:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. **API Connection Issues**: Check your API keys and network connectivity.
+
+4. **Server Errors**: 500 errors usually indicate server-side issues. Try again later or contact the service provider.
+
